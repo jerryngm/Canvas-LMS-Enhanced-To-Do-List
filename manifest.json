@@ -1,0 +1,30 @@
+{
+  "manifest_version": 3,
+  "name": "Enhanced Canvas LMS To Do (Ungraded List)",
+  "version": "1.0",
+  "description": "This displays the full To Do list of ungraded submissions in Canvas LMS, with filter, search and sorting functionality.",
+  "permissions": ["activeTab"],
+  "host_permissions": [
+    "https://*.instructure.com/*",
+    "https://*.beta.instructure.com/*",
+    "https://*.test.instructure.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["*://*/*"],
+      "js": ["libs/ski-monitor-changes.js", "content.js", "libs/datatables.min.js", "libs/moment.min.js"],
+      "css": ["libs/datatables.min.css", "libs/modal.css"]
+    }
+  ],
+    "icons": {
+    "16": "/images/icon16.png",
+    "32": "/images/icon32.png",
+    "48": "/images/icon48.png",
+    "128": "/images/icon128.png"
+  },
+    "action": {
+    "default_icon": "/images/icon32.png",
+    "default_title": "View Instructions",
+    "default_popup": "popup.html" 
+  }
+}

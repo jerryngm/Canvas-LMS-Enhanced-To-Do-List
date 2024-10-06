@@ -1,0 +1,32 @@
+dialog.modal-dialog {
+  width: 100%;
+  height: 100%;
+  resize: both;
+  padding: 0;
+  min-width: 40vw;
+  min-height: 40vw;
+  overflow: auto;
+  background-color: white;
+  border: 0.0625rem solid rgb(199, 205, 209);
+  border-radius: 3px;
+}
+
+dialog.modal-dialog .modal-dialog-content-wrapper {
+  padding: 0;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+dialog.modal-dialog .modal-dialog-header {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 0.0625rem solid rgb(199, 205, 209);
+  padding: 0.3rem;
+}
+
+dialog.modal-dialog .modal-dialog-body {
+  padding: 1rem;
+  overflow: auto; /* Ensure the modal body is scrollable */
+  flex: 1;        /* Make sure it grows and fills available space */
+}

@@ -1,1 +1,1 @@
-# Enhanced-Canvas-LMS-To-Do-List-Browser-Extension-
+# Enhanced Canvas LMS To-Do List (Chrome Extension)

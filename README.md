@@ -15,6 +15,7 @@ This extension displays a comprehensive list of your ungraded submissions from a
 Take control of your grading process and improve your efficiency with this tool.
 
 If you find this extension helpful, your support would motivates me to keep creating new tool for Canvas LMS. Thank you 💕
+
 <a href="https://www.buymeacoffee.com/jerrynguyen" target="_blank"><img class="supportimg" src="https://img.buymeacoffee.com/button-api/?text=Buy me a Cat&emoji=😽&slug=jerrynguyen&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
 

@@ -4,13 +4,13 @@
 
 This extension displays a comprehensive list of your ungraded submissions from all of your courses in Canvas LMS, featuring:
 
-☰	**Filter:** Customise your view by excluding specific roles (e.g., TA role) or focusing on particular criteria (e.g., ungraded submissions older than 7 days).
+☰ **Filter:** Customise your view by excluding specific roles (e.g., TA role) or focusing on particular criteria (e.g., ungraded submissions older than 7 days).
 
-🔽	**Sort:** Organise submissions in any order that suits your workflow, whether by submission date or other factors.
+🔽 **Sort:** Organise submissions in any order that suits your workflow, whether by submission date or other factors.
 
-🔍	**Search:** Quickly find submissions based on various parameters, such as assessment names or student names.
+🔍 **Search:** Quickly find submissions based on various parameters, such as assessment names or student names.
 
-💾  **Export:** Export the list to an Excel spreadsheet.
+💾 **Export:** Export the list to an Excel spreadsheet.
 
 Take control of your grading process and improve your efficiency with this tool.
 
